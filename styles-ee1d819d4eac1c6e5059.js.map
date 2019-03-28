@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/splashscreen.module.css"],"names":["module","exports","splashscreen"],"mappings":"yHACAA,EAAAC,QAAA,CAAkBC,aAAA","file":"styles-ee1d819d4eac1c6e5059.js","sourcesContent":["// extracted by mini-css-extract-plugin\nmodule.exports = {\"splashscreen\":\"splashscreen-module--splashscreen--1_Qvf\"};"],"sourceRoot":""}
