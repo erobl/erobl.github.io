@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{186:function(e,n,t){"use strict";t.r(n);var a=t(0),r=t.n(a),l=(t(183),function(e){var n=e.children;return r.a.createElement("div",null,n)}),c=t(184),u=t.n(c),i=function(){return r.a.createElement("div",{className:u.a.splashscreen},"erobl.xyz")};n.default=function(){return r.a.createElement(l,null,r.a.createElement(i,null))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-2ba07539c54d6aacc78c.js.map
